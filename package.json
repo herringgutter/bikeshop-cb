@@ -16,7 +16,8 @@
     "express": "*",
     "couchbase": "*",
     "body-parser": "*",
-    "ottoman":"*"
+    "ottoman":"*",
+    "commander":"*"
   },
   "contributors": [
     {

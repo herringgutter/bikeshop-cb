@@ -5,7 +5,7 @@
   "homepage": "http://www.couchbase.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ToddGreenstein/bikeshop-cb"
+    "url": "git://github.com/herringgutter/bikeshop-cb"
   },
   "license": "Apache2",
   "author": {
@@ -14,9 +14,9 @@
   },
   "dependencies": {
     "express": "*",
-    "couchbase": "~2.3.0",
+    "couchbase": "*",
     "body-parser": "*",
-    "ottoman":"~1.0.2"
+    "ottoman":"*"
   },
   "contributors": [
     {
